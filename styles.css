@@ -63,5 +63,10 @@ footer {
 }
 
 blockquote {
+    font-style: italic;
+}
 
+.articleImage {
+    Display: flex;
+    justify-content: center;
 }
