@@ -59,14 +59,26 @@ footer {
     Display: flex;
     align-items: center;
     color: #4C4A59;
-    font-size: 100%
+    font-size: 100%;
+    margin: 10px;
 }
 
 blockquote {
     font-style: italic;
 }
 
-.articleImage {
+nav {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
     Display: flex;
-    justify-content: center;
+}
+
+.spurImage {
+    Display: flex;
+    margin: 10px;
+}
+
+.plinthImg {
+    Display: flex;
+    margin: 10px;
 }
