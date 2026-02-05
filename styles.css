@@ -97,3 +97,15 @@ nav {
     Display: flex;
     Justify-content: center;
 }
+
+#peopleForm {
+    Display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.cocoLeeImage {
+    Display: flex;
+    Float: left;
+    margin: 20px;
+}
