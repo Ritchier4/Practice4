@@ -101,6 +101,7 @@ nav {
 #peopleForm {
     Display: flex;
     flex-direction: column;
+    
     margin: 20px;
 }
 
@@ -108,4 +109,9 @@ nav {
     Display: flex;
     Float: left;
     margin: 20px;
+}
+
+.submitButton {
+    Display: flex;
+    justify-content: center;
 }
